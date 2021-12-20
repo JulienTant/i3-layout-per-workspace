@@ -44,6 +44,7 @@ While it's not mandatory to have each argument quoted if they don't contain a sp
 The software also log to STDOUT a few stuff, so feel free to try it out of i3 before adding it in the config!
 
 ```shell
+# I'm using Unicode characters here, it does not work on github :P
 $ ./layout-per-ws " Messaging" "tabbed" " IDE" "stacked"
 
 2021/12/19 20:54:48 building pairs
